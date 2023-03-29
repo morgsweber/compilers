@@ -1,0 +1,6 @@
+$TRACE_ON
+    { a = 34 ; }
+
+    essa aula está uma chatiSSe
+
+
